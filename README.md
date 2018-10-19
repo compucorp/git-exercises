@@ -8,4 +8,4 @@ This is a repository specially prepared to replicate scenarios where you'll be a
 
 ### Task 1 - Squash
 
-this tasks helps developers to understand how to squash commits in git   adn how it can be useffull
+This task helps developers to understand how to squash commits in git   adn how it can be useffull
